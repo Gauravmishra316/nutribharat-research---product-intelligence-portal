@@ -1,0 +1,6 @@
+{
+  "name": "NutriBharat Research & Product Intelligence Portal",
+  "description": "Comprehensive market research, competitor intelligence, search demand analysis, and interactive product engine for India-focused nutrition and calorie tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
