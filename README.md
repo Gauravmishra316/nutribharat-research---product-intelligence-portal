@@ -11,50 +11,16 @@
 
 ---
 
-## 📸 Application Overview & Visual Previews
+## 📸 Application Screenshots & Visual Previews
 
-### 1. Indian Food & Regional Nutrition Database
-```
-+------------------------------------------------------------------------------------+
-|  [🌱 Veg Mode / 🍗 Non-Veg Mode]   Search: "paneer bhurji", "rajma chawal", "idli"|
-+------------------------------------------------------------------------------------+
-|  Item                   | Serving Size       | Calories | Protein | Carbs | Fat    |
-|-------------------------+--------------------+----------+---------+-------+--------|
-|  Paneer Bhurji          | 1 standard katori  | 260 kcal | 14.2g   | 6.5g  | 19.8g  |
-|  Dal Tadka (Toor)       | 1 medium katori    | 150 kcal | 8.5g    | 21.0g | 3.2g   |
-|  Whole Wheat Roti       | 1 medium (40g)     | 110 kcal | 3.5g    | 22.0g | 0.8g   |
-|  Curd / Dahi            | 1 cup (150g)       | 98 kcal  | 4.6g    | 6.8g  | 5.2g   |
-+------------------------------------------------------------------------------------+
-|  * Calibrated according to ICMR-NIN & Indian Food Composition Tables (IFCT 2017)   |
-+------------------------------------------------------------------------------------+
-```
+### 1. Indian Food & Regional Nutrition Database (ICMR-NIN & IFCT 2017)
+![Indian Food Database](screenshots/food-database.png)
 
-### 2. Natural Language AI Meal Logger (Hinglish / English)
-```
-+------------------------------------------------------------------------------------+
-|  Input: "Subah 2 roti khayi thi dal tadka ke sath aur ek cup chai with 1 spoon sugar"|
-|                                                                                    |
-|  [⚡ Parse with Gemini AI Engine]                                                  |
-+------------------------------------------------------------------------------------+
-|  [✓] Detected 4 items:                                                             |
-|      - 2x Whole Wheat Roti     --> 220 kcal | 7.0g Protein | 44g Carbs | 1.6g Fat  |
-|      - 1x Dal Tadka (1 katori) --> 150 kcal | 8.5g Protein | 21g Carbs | 3.2g Fat  |
-|      - 1x Chai with milk       -->  65 kcal | 1.8g Protein |  8g Carbs | 2.5g Fat  |
-|      - 1x Table Sugar (5g)     -->  20 kcal | 0.0g Protein |  5g Carbs | 0.0g Fat  |
-|  Total Logged: 455 kcal | Protein: 17.3g | Carbs: 78g | Fat: 7.3g                 |
-+------------------------------------------------------------------------------------+
-```
+### 2. Interactive Calculator Workbench (BMR, TDEE, Deficit & Macros)
+![Calculator Workbench](screenshots/calculator-preview.png)
 
-### 3. Interactive Calculator Workbench
-```
-+------------------------------------------------------------------------------------+
-|  [BMR & TDEE]    |   [Macro Splitter]   |   [Hydration]   |   [Deficit Planner]    |
-+------------------------------------------------------------------------------------+
-|  Inputs: Age, Gender, Weight (kg), Height (cm), Activity Level, Goal               |
-|  Target Calories: 1,850 kcal/day (500 kcal Deficit for Healthy Fat Loss)           |
-|  Suggested Split:  Protein 115g (25%)  |  Carbs 230g (50%)  |  Fats 51g (25%)      |
-+------------------------------------------------------------------------------------+
-```
+### 3. Natural Language AI Meal Logger (Gemini-Powered Hinglish/English)
+![Natural Language Logger](screenshots/nlp-logger-preview.png)
 
 ---
 
